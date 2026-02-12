@@ -1,0 +1,187 @@
+{
+  "name": "Junteng Liu",
+  "education": [
+    {
+      "degree": "Ph.D. in Computer Science",
+      "institution": "Hong Kong University of Science and Technology",
+      "start_date": "2024",
+      "end_date": "Present",
+      "details": [
+        "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology"
+      ],
+      "source_path": "memory/entities/Ph.D. in Computer Science"
+    },
+    {
+      "degree": "B.Eng.",
+      "institution": "Shanghai Jiao Tong University",
+      "start_date": "2020",
+      "end_date": "2024",
+      "details": [
+        "B.Eng. (2020-2024) at Shanghai Jiao Tong University",
+        "Graduated from Shanghai Jiao Tong University (SJTU) in June 2024"
+      ],
+      "source_path": "memory/entities/B.Eng."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Research Intern",
+      "organization": "MINIMAX",
+      "start_date": "February 2025",
+      "end_date": "Present",
+      "details": [
+        "Research Intern at MINIMAX (February 2025 - Present)",
+        "Company where Junteng Liu works as Research Intern (February 2025 - Present)"
+      ],
+      "source_path": "memory/entities/MINIMAX"
+    },
+    {
+      "role": "Research Intern",
+      "organization": "Tencent WXG",
+      "start_date": "June 2024",
+      "end_date": "September 2024",
+      "details": [
+        "Research Intern at Tencent WXG (June 2024 - September 2024)",
+        "Division of Tencent where Junteng Liu worked as Research Intern (June 2024 - September 2024)"
+      ],
+      "source_path": "memory/entities/Tencent WXG"
+    },
+    {
+      "role": "Research Intern",
+      "organization": "Shanghai AI Lab",
+      "start_date": "June 2023",
+      "end_date": "December 2023",
+      "details": [
+        "Research Intern at Shanghai AI Lab (June 2023 - December 2023)",
+        "Research institution where Junteng Liu worked as Research Intern (June 2023 - December 2023)"
+      ],
+      "source_path": "memory/entities/Shanghai AI Lab"
+    }
+  ],
+  "publications": [
+    {
+      "title": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
+      "year": "2025",
+      "venue": "Arxiv",
+      "authors": "First author: Junteng Liu; Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He",
+      "details": [
+        "2025 publication",
+        "First author: Junteng Liu",
+        "Published on Arxiv",
+        "Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He",
+        "Has GitHub code repository"
+      ],
+      "source_path": "memory/entities/SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
+    },
+    {
+      "title": "On the Perception Bottleneck of VLMs for Chart Understanding",
+      "year": "2025",
+      "venue": "Arxiv",
+      "authors": "First author: Junteng Liu; Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He",
+      "details": [
+        "2025 publication",
+        "First author: Junteng Liu",
+        "Published on Arxiv",
+        "Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He",
+        "Has GitHub code repository: Vision4Chart"
+      ],
+      "source_path": "memory/entities/On the Perception Bottleneck of VLMs for Chart Understanding"
+    },
+    {
+      "title": "On the Universal Truthfulness Hyperplane Inside LLMs",
+      "year": "2024",
+      "venue": "EMNLP 2024",
+      "authors": "First author: Junteng Liu; Co-authors: Shiqi Chen, Yu Cheng, Junxian He",
+      "details": [
+        "2024 publication",
+        "First author: Junteng Liu",
+        "Published at EMNLP 2024",
+        "Co-authors: Shiqi Chen, Yu Cheng, Junxian He",
+        "Has GitHub code repository: Universal_Truthfulness_Hyperplane"
+      ],
+      "source_path": "memory/entities/On the Universal Truthfulness Hyperplane Inside LLMs"
+    },
+    {
+      "title": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
+      "year": "2024",
+      "venue": "ICML 2024",
+      "authors": "Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He",
+      "details": [
+        "2024 publication",
+        "Published at ICML 2024",
+        "Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He"
+      ],
+      "source_path": "memory/entities/In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation"
+    },
+    {
+      "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
+      "year": "2023",
+      "venue": "NeurIPS 2023",
+      "authors": "Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He",
+      "details": [
+        "2023 publication",
+        "Published at NeurIPS 2023",
+        "Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He"
+      ],
+      "source_path": "memory/entities/C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
+    },
+    {
+      "title": "Composing Parameter-Efficient Modules with Arithmetic Operations",
+      "year": "2023",
+      "venue": "NeurIPS 2023",
+      "authors": "Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He",
+      "details": [
+        "2023 publication",
+        "Published at NeurIPS 2023",
+        "Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He"
+      ],
+      "source_path": "memory/entities/Composing Parameter-Efficient Modules with Arithmetic Operations"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Natural Language Processing",
+      "details": [
+        "Primary research focus of Junteng Liu"
+      ],
+      "source_path": "memory/entities/Natural Language Processing"
+    },
+    {
+      "name": "Machine Learning",
+      "details": [
+        "Research focus of Junteng Liu"
+      ],
+      "source_path": "memory/entities/Machine Learning"
+    },
+    {
+      "name": "LLM Reasoning and Reinforcement Learning",
+      "details": [
+        "Specific research interest of Junteng Liu"
+      ],
+      "source_path": "memory/entities/LLM Reasoning and Reinforcement Learning"
+    },
+    {
+      "name": "Hallucination in Vision-Language Models",
+      "details": [
+        "Specific research interest of Junteng Liu"
+      ],
+      "source_path": "memory/entities/Hallucination in Vision-Language Models"
+    },
+    {
+      "name": "LLM Truthfulness and Interpretability",
+      "details": [
+        "Specific research interest of Junteng Liu"
+      ],
+      "source_path": "memory/entities/LLM Truthfulness and Interpretability"
+    }
+  ],
+  "contact": {
+    "email": "jliugi@connect.ust.hk",
+    "github": {
+      "username": "Vicent0205",
+      "url": "https://github.com/Vicent0205"
+    },
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate",
+    "x_account": "@junteng88716710"
+  }
+}
