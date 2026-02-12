@@ -1,0 +1,4 @@
+num_education: 2
+num_experience: 3
+num_publications: 6
+num_skills: 5
