@@ -5,12 +5,7 @@
   "research_interests": 5,
   "internships": 3,
   "selected_publications": 6,
-  "awards": 0,
+  "awards": 1,
   "contact_links": 4,
-  "omitted_profile_facts": [
-    "Publication 'SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond' has an associated GitHub code repository.",
-    "Publication 'On the Perception Bottleneck of VLMs for Chart Understanding' has an associated GitHub code repository named Vision4Chart.",
-    "Publication 'On the Universal Truthfulness Hyperplane Inside LLMs' has an associated GitHub code repository named Universal_Truthfulness_Hyperplane.",
-    "Memory source paths were tracked for each extracted entity during profile normalization."
-  ]
+  "omitted_profile_facts": 0
 }
