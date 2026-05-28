@@ -1,6 +1,6 @@
 {
   "name": "Junteng Liu",
-  "current_role": "Ph.D. Student in Computer Science at HKUST; Research Intern at MINIMAX",
+  "current_role": "First-year PhD candidate at HKUST NLP Group, supervised by Professor Junxian He",
   "education": [
     {
       "degree": "Ph.D. in Computer Science",
@@ -10,7 +10,9 @@
     {
       "degree": "B.Eng.",
       "institution": "Shanghai Jiao Tong University",
-      "period": "2020–2024"
+      "period": "2020–2024",
+      "graduation_date": "June 2024",
+      "advisor": "Professor Junxian He (previously advised during undergraduate studies)"
     }
   ],
   "research_interests": [
@@ -29,57 +31,69 @@
     {
       "role": "Research Intern",
       "organization": "Tencent WXG",
-      "period": "June 2024–September 2024"
+      "period": "June 2024–September 2024",
+      "advisor": "Zifei Shan"
     },
     {
       "role": "Research Intern",
       "organization": "Shanghai AI Lab",
-      "period": "June 2023–December 2023"
+      "period": "June 2023–December 2023",
+      "advisor": "Prof. Yu Cheng"
     }
   ],
   "selected_publications": [
     {
       "title": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
       "venue": "arXiv",
-      "year": "2025",
-      "authors": "Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He"
+      "year": 2025,
+      "authors": "Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He",
+      "code_repository": "Available on GitHub"
     },
     {
       "title": "On the Perception Bottleneck of VLMs for Chart Understanding",
       "venue": "arXiv",
-      "year": "2025",
-      "authors": "Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He"
+      "year": 2025,
+      "authors": "Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He",
+      "code_repository": "Vision4Chart"
     },
     {
       "title": "On the Universal Truthfulness Hyperplane Inside LLMs",
       "venue": "EMNLP 2024",
-      "year": "2024",
-      "authors": "Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He"
+      "year": 2024,
+      "authors": "Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He",
+      "code_repository": "Universal_Truthfulness_Hyperplane"
     },
     {
       "title": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
       "venue": "ICML 2024",
-      "year": "2024",
+      "year": 2024,
       "authors": "Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He"
     },
     {
       "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
       "venue": "NeurIPS 2023",
-      "year": "2023",
+      "year": 2023,
       "authors": "Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He"
     },
     {
       "title": "Composing Parameter-Efficient Modules with Arithmetic Operations",
       "venue": "NeurIPS 2023",
-      "year": "2023",
+      "year": 2023,
       "authors": "Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He"
     }
   ],
-  "awards": [],
-  "contact": {
+  "awards": [
+    {
+      "name": "Zhiyuan Honor Scholarship",
+      "institution": "Shanghai Jiao Tong University",
+      "description": "Academic honor/achievement"
+    }
+  ],
+  "contact_links": {
     "email": "jliugi@connect.ust.hk",
+    "email_type": "HKUST email account",
     "github": "https://github.com/Vicent0205",
     "google_scholar": "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate",
-    "x": "https://x.com/junteng88716710"
+    "x_twitter": "https://x.com/junteng88716710"
   }
 }
