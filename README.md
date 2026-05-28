@@ -1,3 +1,5 @@
 # Junteng Liu
 
-Junteng Liu is a Ph.D. student in Computer Science at the Hong Kong University of Science and Technology (2024–Present). His research interests include Natural Language Processing, Machine Learning, LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models, and LLM Truthfulness and Interpretability. He is currently a Research Intern at MINIMAX and previously interned at Tencent WXG and Shanghai AI Lab. He earned his B.Eng. from Shanghai Jiao Tong University in 2024.
+Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. He earned his B.Eng. from Shanghai Jiao Tong University in June 2024. His research interests span natural language processing and machine learning, with a focus on LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
+
+He has held research internships at MINIMAX, Tencent WXG, and Shanghai AI Lab. His work has been published at EMNLP, ICML, and NeurIPS, and he is a recipient of the Zhiyuan Honor Scholarship from SJTU.
